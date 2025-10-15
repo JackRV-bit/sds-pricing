@@ -51,7 +51,7 @@ function App() {
                 <div className="flex-shrink-0 w-6 h-6 bg-[#fc6666] rounded flex items-center justify-center mt-0.5">
                   <Check className="w-4 h-4 text-white" strokeWidth={3} />
                 </div>
-                <span className="text-gray-200">Complete domain discovery & TAM analysis</span>
+                <span className="text-gray-200">Publisher research & TAM analysis</span>
               </div>
               <div className="flex items-start space-x-3">
                 <div className="flex-shrink-0 w-6 h-6 bg-[#fc6666] rounded flex items-center justify-center mt-0.5">
@@ -63,13 +63,7 @@ function App() {
                 <div className="flex-shrink-0 w-6 h-6 bg-[#fc6666] rounded flex items-center justify-center mt-0.5">
                   <Check className="w-4 h-4 text-white" strokeWidth={3} />
                 </div>
-                <span className="text-gray-200">Full email setup (DKIM, SPF, DMARC)</span>
-              </div>
-              <div className="flex items-start space-x-3">
-                <div className="flex-shrink-0 w-6 h-6 bg-[#fc6666] rounded flex items-center justify-center mt-0.5">
-                  <Check className="w-4 h-4 text-white" strokeWidth={3} />
-                </div>
-                <span className="text-gray-200">SendGrid/IP configuration</span>
+                <span className="text-gray-200">Full email setup (DKIM, SPF, DMARC etc)</span>
               </div>
               <div className="flex items-start space-x-3">
                 <div className="flex-shrink-0 w-6 h-6 bg-[#fc6666] rounded flex items-center justify-center mt-0.5">
