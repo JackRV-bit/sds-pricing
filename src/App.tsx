@@ -232,7 +232,7 @@ function App() {
             <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
               <h4 className="font-bold mb-2 text-gray-900">Reduce risk</h4>
               <p className="text-gray-600 text-sm leading-relaxed">
-                Mitigate high turnover, training costs, and inconsistent performance. Join the 57% of businesses that trust experts.
+                Mitigate high turnover, training costs, and inconsistent performance. Companies save an average of 78% on operational costs through strategic outsourcing.
               </p>
             </div>
 
