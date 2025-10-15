@@ -151,7 +151,7 @@ function App() {
       {/* Stats & Social Proof */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
-          <div className="grid md:grid-cols-3 gap-12 text-center mb-16">
+          <div className="grid md:grid-cols-2 gap-12 text-center mb-16 max-w-3xl mx-auto">
             <div>
               <div className="text-5xl font-bold mb-2 text-[#fc6666]">15 years</div>
               <p className="text-gray-600">Marketing campaign experience</p>
