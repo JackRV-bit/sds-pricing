@@ -101,14 +101,6 @@ function App() {
             </div>
           </div>
 
-          {/* Trust Badge */}
-          <div className="text-center">
-            <p className="text-gray-400 text-sm mb-3">Trusted by 200+ customers</p>
-            <div className="flex items-center justify-center gap-2">
-              <span className="text-gray-400">Established ad tech experts with</span>
-              <span className="font-bold text-[#fc6666]">25 years experience</span>
-            </div>
-          </div>
         </div>
       </section>
 
@@ -139,7 +131,7 @@ function App() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-gray-900">Email Configuration</h3>
               <p className="text-gray-600 leading-relaxed text-sm">
-                Complete setup from domain config to SendGrid/IP, ensuring smooth, compliant campaigns that avoid spam filters.
+                Complete setup from domain config using Google/Reply.io, ensuring smooth, compliant campaigns that avoid spam filters.
               </p>
             </div>
 
@@ -161,16 +153,12 @@ function App() {
         <div className="max-w-6xl mx-auto">
           <div className="grid md:grid-cols-3 gap-12 text-center mb-16">
             <div>
-              <div className="text-5xl font-bold mb-2 text-[#fc6666]">25 years</div>
+              <div className="text-5xl font-bold mb-2 text-[#fc6666]">15 years</div>
               <p className="text-gray-600">Marketing campaign experience</p>
             </div>
             <div>
-              <div className="text-5xl font-bold mb-2 text-[#fc6666]">15 years</div>
+              <div className="text-5xl font-bold mb-2 text-[#fc6666]">25 years</div>
               <p className="text-gray-600">Supply-side ad tech expertise</p>
-            </div>
-            <div>
-              <div className="text-5xl font-bold mb-2 text-[#fc6666]">200+</div>
-              <p className="text-gray-600">Customers powered by Red Volcano</p>
             </div>
           </div>
 
